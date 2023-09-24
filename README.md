@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="Tabbar.gif" alt="Demo" width="450">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
